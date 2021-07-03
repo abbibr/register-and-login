@@ -1,2 +1,2 @@
 # register-and-login
- SignUp va Login
+Bu PHP da qilingan loyiha. Bu SignUp va Login proyekt hisoblanadi
